@@ -28,7 +28,7 @@ var page = new scrollCheck({
   classname: 'section', // object classname
   repeat: true // scroll animation
 })
-page.init()
+page.init() // after all setting or feature
 ```
 ### use class `active` to add animation
 ```css
@@ -47,7 +47,7 @@ page.init()
 
 ## feature
 ### setPoint
-setPoint set before `init()`
+`setPoint()` set before `init()`
 ```js
 scrollCheck.setPoint({
   id: 'totop',
