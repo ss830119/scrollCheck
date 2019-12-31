@@ -50,7 +50,7 @@ page.init() // after all setting or feature
 `setPoint()` set before `init()`
 ```js
 scrollCheck.setPoint({
-  id: 'totop',
+  id: 'totop', // element
   stay: 1,  // 'active' class appear which interval
   repeat: true  // repeat or once, 'false' is default
   range: 2 // toggle 'active' range
