@@ -3,7 +3,7 @@ Demo: [https://codepen.io/ss830119/pen/rNaGWZd?editors=0010](https://codepen.io/
 
 ## Getting Started
 ```html
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script src="https://ss830119.github.io/assets/scrollCheck.js"></script>
 ```
 
 ## Usage
