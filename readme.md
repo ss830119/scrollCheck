@@ -1,5 +1,5 @@
 # ScrollCheck
-Demo: [https://codepen.io/ss830119/pen/rNaGWZd?editors=0010](https://codepen.io/ss830119/pen/rNaGWZd?editors=0010)
+Demo: <a href='https://codepen.io/ss830119/pen/rNaGWZd?editors=0010'> https://codepen.io/ss830119/pen/rNaGWZd?editors=0010 </a>
 
 ## Getting Started
 ```html
