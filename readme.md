@@ -11,24 +11,24 @@ Demo:
 
 ```html
 <div class="section">
-  <p>A</p>
+  <p> A </p>
 </div>
 <div class="section">
-  <p>B</p>
+  <p> B </p>
 </div>
 <div class="section">
-  <p>C</p>
+  <p> C </p>
 </div>
 <div class="section">
-  <p>D</p>
+  <p> D </p>
 </div>
 ```
 ```js
 var page = new scrollCheck({
   classname: 'section', // object classname
-  repeat: true // scroll animation
+  repeat: true // scroll animation repeat or once
 })
-page.init() // after all setting or feature
+page.init() // init after all setting and feature
 ```
 ### use class `active` to add animation
 ```css
@@ -52,7 +52,7 @@ page.init() // after all setting or feature
 scrollCheck.setPoint({
   id: 'totop', // element
   stay: 1,  // 'active' class appear which interval
-  repeat: true  // repeat or once, 'false' is default
+  repeat: true  // scroll animation repeat or once, default is 'false'
   range: 2 // toggle 'active' range
 })
 ```

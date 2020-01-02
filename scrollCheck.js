@@ -6,6 +6,7 @@ class scrollCheck {
     }
     init() {
         var _self = this;
+        
         _self.action()
         window.addEventListener('scroll', function (e) {
             _self.action()
