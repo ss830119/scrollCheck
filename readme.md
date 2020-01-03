@@ -4,7 +4,7 @@ Demo:
 
 ## Getting Started
 ```html
-<script src="https://ss830119.github.io/assets/scrollCheck.js"></script>
+<script src="https://zxccxz0119.github.io/assets/scrollCheck.js"></script>
 ```
 
 ## Usage
